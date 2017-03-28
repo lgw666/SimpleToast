@@ -1,5 +1,4 @@
 # SimpleToast
- ### [中文版](https://github.com/lgw666/SimpleToast/blob/master/README-CN.md)
  * 简单Toast, 解决了多次弹出时存在时间重叠问题。
  * 作者： 罗国文 邮箱:<a href="#">luoguowen123@qq.com</a>
 

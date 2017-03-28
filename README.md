@@ -1,4 +1,5 @@
 # SimpleToast
+ ### [中文版](https://github.com/lgw666/SimpleToast/blob/master/README-CN.md)
  * A simple toast, avoid the overlap of the existence of toast for multiple clicks.
  * Author： Luo Guowen Email:<a href="#">luoguowen123@qq.com</a>
 
